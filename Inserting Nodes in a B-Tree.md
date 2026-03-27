@@ -105,10 +105,9 @@ if __name__ == '__main__':
 ```
 
 ## OUTPUT
-```
+
 <img width="1184" height="433" alt="image" src="https://github.com/user-attachments/assets/a56ed206-fa82-4dac-9549-626af1e60f24" />
 
-```
 
 ## RESULT
 Therefore, the output is the example to write a Python function def insert(self, k): to insert the nodes in a B-Tree.
