@@ -27,12 +27,14 @@ To write a Python program to construct an **AVL tree**, balance it, and print th
 
 ## PYTHON PROGRAM
 ```
-ENTER YOUR CODE
+from TreeAVL.AVL import AVL
+def Construct_AVL(L):
+    t=AVL(L)
+    print("Length of an AVL Tree is",t.length_tree)
 ```
 
 ## OUTPUT
-```
-```
+<img width="1185" height="195" alt="image" src="https://github.com/user-attachments/assets/19bad1ec-6bb5-482c-8913-ebe7dcb0260c" />
 
 ## RESULT
-
+Therefore, the output is the example to write a Python program to construct an AVL tree, balance it, and print the nodes before and after balancing using the appropriate packages and built-in function.
